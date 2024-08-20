@@ -25,7 +25,7 @@ dependencies:
   audioplayers_darwin: ^6.0.0
   audioplayers_linux: ^4.0.0
   audioplayers_platform_interface: ^7.0.0 
-  audioplayers_web: ^5.0.0
+ 
   audioplayers_web:
     git:
       url: https://github.com/mohamedibrahim5/audioplayers
